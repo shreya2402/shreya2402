@@ -84,4 +84,4 @@ I'm currently working on:
 <br>
 <h3 align="left">🍪 Random Dev Quote</h3>
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Dev Quote" />
+"AI is not going to replace humans, but humans with AI will replace humans without AI." — Karim Lakhani
