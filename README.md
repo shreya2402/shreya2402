@@ -23,10 +23,9 @@ I'm currently working on:
 - Building end-to-end data + AI systems
 
 ⚡ Fun facts:
+- Won 2nd place at a Snowflake + Streamlit AI Hack Night for an AI healthcare analytics prototype built under time constraints
 - Published research on Type 2 Diabetes prediction using LightGBM (90.62% accuracy), presented at an international conference
 - Earned a 4.0 GPA in my M.S. in Information Systems at CSU Long Beach
-- Won 2nd place at a Snowflake + Streamlit AI Hack Night for an AI healthcare analytics prototype built under time constraints
-
 <br>
 
 🌐 **Socials:**
@@ -38,7 +37,7 @@ I'm currently working on:
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
-<br><br>
+<br>
 
 <h1 align="left">🖥️ Tech Stack:</h1>
 
