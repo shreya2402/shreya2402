@@ -1,19 +1,18 @@
 <h1 align="left">🔁 About Me:</h1>
+I am an **AI Engineer** building GenAI and LLM-powered applications on top of healthcare and enterprise data — with production experience across backend services, databases, REST APIs, and React front ends. I own projects end-to-end: architecture, data modeling, RAG pipelines, structured outputs, and AI-assisted workflows, using tools like OpenAI APIs, Claude Code, LangChain, and Snowflake — then shipping them through a full stack backend + UI, applying engineering judgment to validate and productionize AI-generated outputs.
 
-I'm an **AI Engineer** building GenAI and LLM-powered applications on top of healthcare and enterprise data — with production experience across backend services, databases, REST APIs, and React front ends. I own projects end-to-end: architecture, data modeling, RAG pipelines, structured outputs, and AI-assisted workflows, using tools like OpenAI APIs, Claude Code, LangChain, and Snowflake — then shipping them through a full stack backend + UI, applying engineering judgment to validate and productionize AI-generated outputs.
-
-I'm currently working on:
+I am currently working on:
 - Developing a **Model Context Protocol (MCP) server** from scratch — backend architecture, tool interfaces, and context orchestration logic to expose data/tool access to LLM-powered applications
 - Building **RAG pipelines** with prompt engineering, structured output validation, and token/cost optimization, integrated directly into production backend code
 
-🐝 I'm looking to collaborate on: AI Engineering projects (LLM apps, RAG systems, intelligent agents, production AI systems) and full stack applications with integrated AI features
+🐝 I am looking to collaborate on: AI Engineering projects (LLM apps, RAG systems, intelligent agents, production AI systems) and full stack applications with integrated AI features
 
-💛 I'm looking for help with:
+💛 I am looking for help with:
 - Building and deploying scalable AI Engineering projects
 - Improving RAG pipelines (chunking, retrieval, evaluation, optimization)
 - Scaling backend + AI architecture for production LLM features
 
-🌱 I'm currently learning:
+🌱 I am currently learning:
 - Advanced backend architecture for AI-native applications
 - Kubernetes & infrastructure-as-code at scale
 - Agentic system design
@@ -32,14 +31,12 @@ I'm currently working on:
 <br>
 
 🌐 **Socials:**
-
 <a href="https://www.linkedin.com/in/shreya-kapgate/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="mailto:shreyakapgate24@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-
 <br>
 
 <h1 align="left">🖥️ Tech Stack:</h1>
@@ -88,7 +85,6 @@ I'm currently working on:
 ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
 
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
-
 <br>
 <h3 align="left">🍪 Dev Quote</h3>
-<img src="./quote.svg" alt="Dev Quote" />
+<h5 align="left">"AI is not going to replace humans, but humans with AI will replace humans without AI." — Karim Lakhani</h5>
