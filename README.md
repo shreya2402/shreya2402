@@ -1,3 +1,45 @@
+<h1 align="left">🔁 About Me:</h1>
+
+I'm an **AI Engineer** building GenAI and LLM-powered applications on top of healthcare and enterprise data — RAG pipelines, structured outputs, and AI-assisted workflows, using tools like OpenAI APIs, Claude Code, LangChain, and Snowflake.
+
+I'm currently working on:
+- Developing a **Model Context Protocol (MCP) server** to expose data/tool access to LLM-powered applications
+- Building **RAG pipelines** with prompt engineering, structured output validation, and token/cost optimization
+
+🐝 I'm looking to collaborate on: AI Engineering projects (LLM apps, RAG systems, intelligent agents, production AI systems)
+
+💛 I'm looking for help with:
+- Building and deploying scalable AI Engineering projects
+- Improving RAG pipelines (chunking, retrieval, evaluation, optimization)
+
+🌱 I'm currently learning:
+- Advanced Data Engineering
+- AI Engineering & agent architectures
+- Data Science
+
+💬 Ask me about:
+- Healthcare analytics, SQL, and Tableau/Power BI dashboards
+- LLM applications, prompt engineering, and RAG systems
+- Building end-to-end data + AI systems
+
+⚡ Fun facts:
+- Published research on Type 2 Diabetes prediction using LightGBM (90.62% accuracy), presented at an international conference
+- Earned a 4.0 GPA in my M.S. in Information Systems at CSU Long Beach
+- Won 2nd place at a Snowflake + Streamlit AI Hack Night for an AI healthcare analytics prototype built under time constraints
+
+<br>
+
+🌐 **Socials:**
+
+<a href="https://www.linkedin.com/in/shreya-kapgate/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:shreyakapgate24@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<br><br>
+
 <h1 align="left">🖥️ Tech Stack:</h1>
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
@@ -41,60 +83,6 @@
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 
 <br>
-
-<h1 align="left">🔁 About Me:</h1>
-
-I'm an **AI Engineer** building GenAI and LLM-powered applications on top of healthcare and enterprise data — RAG pipelines, structured outputs, and AI-assisted workflows, using tools like OpenAI APIs, Claude Code, LangChain, and Snowflake.
-
-I'm currently working on:
-- Developing a **Model Context Protocol (MCP) server** to expose data/tool access to LLM-powered applications
-- Building **RAG pipelines** with prompt engineering, structured output validation, and token/cost optimization
-
-🐝 I'm looking to collaborate on: AI Engineering projects (LLM apps, RAG systems, intelligent agents, production AI systems)
-
-💛 I'm looking for help with:
-- Building and deploying scalable AI Engineering projects
-- Improving RAG pipelines (chunking, retrieval, evaluation, optimization)
-
-🌱 I'm currently learning:
-- Advanced Data Engineering
-- AI Engineering & agent architectures
-- Data Science
-
-💬 Ask me about:
-- Healthcare analytics, SQL, and Tableau/Power BI dashboards
-- LLM applications, prompt engineering, and RAG systems
-- Building end-to-end data + AI systems
-
-⚡ Fun facts:
-- Published research on Type 2 Diabetes prediction using LightGBM (90.62% accuracy), presented at an international conference
-- Earned a 4.0 GPA in my M.S. in Information Systems at CSU Long Beach
-- Won 2nd place at a Snowflake + Streamlit AI Hack Night for an AI healthcare analytics prototype built under time constraints
-
-<br>
-
-🌐 **Socials:**
-
-<a href="https://www.linkedin.com/in/shreya-kapgate/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="mailto:shreyakapgate24@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-<br><br>
-
-<h1 align="left">📊 GitHub Stats:</h1>
-
-<img src="https://github-readme-stats.vercel.app/api?username=shreya2402&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=shreya2402&theme=dark&hide_border=true" alt="GitHub Streak" width="48%" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreya2402&layout=compact&theme=dark&hide_border=true" alt="Top Languages" width="48%" />
-
-<h3 align="left">🏆 GitHub Trophies</h3>
-
-<img src="https://github-profile-trophy.vercel.app/?username=shreya2402&theme=darkhub&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
-
 <h3 align="left">🍪 Random Dev Quote</h3>
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Dev Quote" />
