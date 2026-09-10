@@ -84,4 +84,4 @@ I'm currently working on:
 <br>
 <h3 align="left">🍪 Random Dev Quote</h3>
 
-"AI is not going to replace humans, but humans with AI will replace humans without AI." — Karim Lakhani
+<h5 align="left">"AI is not going to replace humans, but humans with AI will replace humans without AI." — Karim Lakhani</h5>
