@@ -1,5 +1,5 @@
 <h1 align="left">🔁 About Me:</h1>
-I am an **AI Engineer** building GenAI and LLM-powered applications on top of healthcare and enterprise data — with production experience across backend services, databases, REST APIs, and React front ends. I own projects end-to-end: architecture, data modeling, RAG pipelines, structured outputs, and AI-assisted workflows, using tools like OpenAI APIs, Claude Code, LangChain, and Snowflake — then shipping them through a full stack backend + UI, applying engineering judgment to validate and productionize AI-generated outputs.
+I am an AI Engineer building GenAI and LLM-powered applications on top of healthcare and enterprise data — with production experience across backend services, databases, REST APIs, and React front ends. I own projects end-to-end: architecture, data modeling, RAG pipelines, structured outputs, and AI-assisted workflows, using tools like OpenAI APIs, Claude Code, LangChain, and Snowflake — then shipping them through a full stack backend + UI, applying engineering judgment to validate and productionize AI-generated outputs.
 
 I am currently working on:
 - Developing a **Model Context Protocol (MCP) server** from scratch — backend architecture, tool interfaces, and context orchestration logic to expose data/tool access to LLM-powered applications
